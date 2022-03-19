@@ -8,7 +8,6 @@ class Solution:
         else:
             i, res, odd = 0, 0, 0
             while i < len(s):
-                freq = 1
                 # count frequency of character
                 j = s.count(s[i])
                 # for even frequescies
