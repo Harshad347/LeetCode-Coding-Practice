@@ -1,4 +1,4 @@
-# time limit exceeded
+# Time limit exceeded
 
 class Solution:
     def halveArray(self, nums: List[int]) -> int:
